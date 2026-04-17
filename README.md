@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupesh Kumar</h1>
+<h1 align="center">Hi, I'm Rupesh Kumar</h1>
 <h3 align="center">A passionate to make model to solve the real world Problem</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshkumar96" /> </p>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Price Analysis in online store**
 
-- 🌱 I’m currently learning **Machine Learning Data Science**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-one-omega-64.vercel.app/](https://myportfolio-one-omega-64.vercel.app/)
 
