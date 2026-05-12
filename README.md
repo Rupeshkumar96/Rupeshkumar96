@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rupesh Kumar</h1>
-<h3 align="center">A passionate to make model to solve the real world Problem</h3>
+<h3 align="center">Passionate about building models that solve real-world problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshkumar96" /> </p>
 
