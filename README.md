@@ -55,5 +55,3 @@
     <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="80" height="80"/></td>
   </tr>
 </table>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rupeshkumar96&show_icons=true&locale=en&layout=compact" alt="rupeshkumar96" /></p>
