@@ -1,57 +1,241 @@
-<h1 align="center">Hi, I'm Rupesh Kumar</h1>
-<h3 align="center">Passionate about building models that solve real-world problems</h3>
+<h1 align="center">Hi 👋, I'm Rupesh Kumar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rupeshkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="rupeshkumar96" /> </p>
+<h3 align="center">
+  🤖 AI/ML Enthusiast • 📊 Data Science • 💻 Full Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rupeshkumar96" alt="rupeshkumar96" /></a> </p>
+<p align="center">
+  <a href="https://myportfolio-one-omega-64.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rupesh-kumar12">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:rupeshprasad5837@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Price Analysis in online store**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rupeshkumar96&label=Profile%20Views&color=0A66C2&style=flat-square">
+</p>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+---
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-one-omega-64.vercel.app/](https://myportfolio-one-omega-64.vercel.app/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **rupeshprasad5837@gmail.com**
+Hi! I'm **Rupesh Kumar**, an MCA student specializing in **Artificial Intelligence & Machine Learning**.
+
+I enjoy building practical applications that combine **Machine Learning, Data Science and Full Stack Development** to solve real-world problems.
+
+- 🔭 Currently working on **Price Analysis for Online Stores**
+- 🌱 Currently learning **Machine Learning & Data Science**
+- 🤖 Interested in **Artificial Intelligence & Predictive Modeling**
+- 💻 Building applications with **Python, Flask, React, Java and SQL**
+- 📊 Interested in **Data Analysis & Data Visualization**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🎯 Goal: Build impactful real-world technology solutions
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td><a href="https://www.linkedin.com/in/rupesh-kumar12"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50"/></a></td>
-<td><a href="https://leetcode.com/rupeshkumar96/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50"/></a></td>
+
+<td width="50%">
+
+### 🎗️ Breast Cancer Prediction
+
+Machine Learning web application for breast tumor classification using a **Random Forest Classifier**.
+
+**Tech Stack**
+
+`Python` `Pandas` `Scikit-learn` `Flask` `Tailwind CSS`
+
+<br>
+
+<a href="https://breast-cancer-prediction-pewf.onrender.com/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-0A66C2?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛒 Price Analysis
+
+Data analysis application for analyzing product prices from online stores and generating useful pricing insights.
+
+**Tech Stack**
+
+`Python` `Pandas` `NumPy` `Streamlit` `Data Analysis`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 HR Workforce Intelligence Dashboard
+
+Interactive Power BI dashboard for analyzing employee attrition, salary distribution, demographics and departmental insights.
+
+**Tech Stack**
+
+`Power BI` `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+</td>
+
+<td width="50%">
+
+### 🧾 Invoice Generation
+
+Application for generating professional invoices from customer and product information.
+
+**Tech Stack**
+
+`Python` `HTML` `CSS` `JavaScript`
+
+</td>
+
 </tr>
 </table>
-<h3 align="left">Languages and Tools:</h3>
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="80" height="80"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80" height="80"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="80" height="80"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80" height="80"/></td>
-  </tr>
+---
 
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="80" height="80"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80"/></td>
-    <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="80" height="80"/></td>
-  </tr>
+## 🛠️ Languages & Technologies
 
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="80"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="80" height="80"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="80" height="80"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="80" height="80"/></td>
-  </tr>
+### 💻 Programming Languages
 
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="80" height="80"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="80"/></td>
-    <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="80" height="80"/></td>
-  </tr>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css">
+</p>
 
-  <tr>
-    <td><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="80" height="80"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="80" height="80"/></td>
-  </tr>
-</table>
+### 🤖 AI / Machine Learning / Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48">
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48">
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind">
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql">
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48">
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker">
+</p>
+
+---
+
+## 📚 Technical Skills
+
+| Category | Skills |
+|---|---|
+| 💻 Languages | Python, C++, Java, JavaScript, HTML, CSS |
+| 🤖 Machine Learning | Regression, Classification, Clustering, Random Forest, SVM, KNN |
+| 📊 Data Science | Pandas, NumPy, Matplotlib, Seaborn |
+| 🌐 Web Development | React, Node.js, Express.js, Flask |
+| 🗄️ Databases | MySQL, MongoDB, SQL Server |
+| 📈 Visualization | Power BI, Matplotlib, Seaborn |
+| 🧰 Tools | Git, GitHub, VS Code, Postman, Jupyter Notebook |
+| 🧠 Concepts | OOP, DSA, SQL, REST APIs |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupeshkumar96&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshkumar96&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rupeshkumar96&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rupeshkumar96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10">
+</p>
+
+---
+
+## 🧩 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/rupeshkumar96/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://github.com/Rupeshkumar96">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+## 🌐 My Portfolio
+
+<p align="center">
+
+<a href="https://myportfolio-one-omega-64.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:rupeshprasad5837@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rupeshprasad5837%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/rupesh-kumar12">
+  <img src="https://img.shields.io/badge/LinkedIn-Rupesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/rupeshkumar96/">
+  <img src="https://img.shields.io/badge/LeetCode-Rupesh%20Kumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  💡 Build • Learn • Solve • Repeat
+</h3>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
