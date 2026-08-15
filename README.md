@@ -63,7 +63,7 @@ Machine Learning web application for breast tumor classification using a **Rando
 
 <td width="50%">
 
-### 🛒 Price Analysis
+###  MediCost Optimizer
 
 Data analysis application for analyzing product prices from online stores and generating useful pricing insights.
 
@@ -79,7 +79,7 @@ Data analysis application for analyzing product prices from online stores and ge
 
 <td width="50%">
 
-### 📊 HR Workforce Intelligence Dashboard
+### 📊 IBM_HR_Data_Analysis
 
 Interactive Power BI dashboard for analyzing employee attrition, salary distribution, demographics and departmental insights.
 
