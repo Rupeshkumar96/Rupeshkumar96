@@ -53,8 +53,6 @@ Machine Learning web application for breast tumor classification using a **Rando
 
 `Python` `Pandas` `Scikit-learn` `Flask` `Tailwind CSS`
 
-<br>
-
 <a href="https://breast-cancer-prediction-pewf.onrender.com/">
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-0A66C2?style=for-the-badge">
 </a>
@@ -71,6 +69,9 @@ Data analysis application for analyzing product prices from online stores and ge
 
 `Python` `Pandas` `NumPy` `Streamlit` `Data Analysis`
 
+<a href="https://appuctanalysis-rupeshkumar.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20App-0A66C2?style=for-the-badge">
+</a>
 </td>
 
 </tr>
