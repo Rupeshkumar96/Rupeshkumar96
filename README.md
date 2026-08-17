@@ -126,7 +126,7 @@ Application for generating professional invoices from customer and product infor
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind">
+  <img src="https://skillicons.dev/icons?i=flask,tailwind">
 </p>
 
 ### 🗄️ Databases
@@ -139,7 +139,7 @@ Application for generating professional invoices from customer and product infor
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman">
 </p>
 
 ---
